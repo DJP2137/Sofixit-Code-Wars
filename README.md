@@ -5,4 +5,4 @@ The program accepts heights of each wall in order as a list of integers. It then
 ## OpenCV
 Alternatively, one can use the function `materialVisualised`, which, using openCV, draws the scene (background, walls, liquid), and optionally displays a simple animation of filling viable spaces. It is naturally less efficient, but more neat if I do say so myself.
 
-![There should be a cool gif here :/](https://iili.io/JFjPIoX.gif)
+![There should be a cool gif here :/](animated.gif)
